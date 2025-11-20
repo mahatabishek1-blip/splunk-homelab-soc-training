@@ -28,15 +28,24 @@ This repository documents my journey from complete beginner to proficient Splunk
 ### ✅ Completed
 - [x] Understanding what Splunk is and its use in cybersecurity
 - [x] Installing Splunk Enterprise on Ubuntu
+- [x] Configuring data receiving (port 9997)
+- [x] Creating indexes for log storage
 - [x] Understanding the Splunk interface
 - [x] Learning to read and analyze logs
 - [x] Basic search syntax and filtering
+- [x] Installing Splunk Universal Forwarder on Windows
+- [x] Configuring Windows Event Log collection
+- [x] Understanding network adapter configurations (Host-only + NAT)
+- [x] Analyzing Windows Security Events (EventCodes)
+- [x] Generating and investigating test security events
+- [x] Pattern recognition (failed logins, account creation/deletion)
+- [x] Logon type analysis
 
 ### 🔄 In Progress
-- [ ] Adding data sources (Windows logs, Linux logs)
 - [ ] Creating detection rules and alerts
-- [ ] Building dashboards
-- [ ] Simulating attacks and investigating incidents
+- [ ] Building security dashboards
+- [ ] Simulating attacks with Kali Linux
+- [ ] Incident investigation workflows
 
 ## 📖 Documentation
 
