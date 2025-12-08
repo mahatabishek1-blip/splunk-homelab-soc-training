@@ -70,4 +70,4 @@ This project is part of my cybersecurity learning journey. Each lesson builds on
 
 ---
 
-**Last Updated:** November 15, 2025
+**Last Updated:** December 7, 2025
