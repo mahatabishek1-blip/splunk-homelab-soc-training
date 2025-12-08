@@ -40,11 +40,13 @@ This repository documents my journey from complete beginner to proficient Splunk
 - [x] Generating and investigating test security events
 - [x] Pattern recognition (failed logins, account creation/deletion)
 - [x] Logon type analysis
+- [x] Creating automated detection rules and alerts
+- [x] Building security monitoring dashboards
+- [x] Testing alert effectiveness with simulated attacks
 
 ### 🔄 In Progress
-- [ ] Creating detection rules and alerts
-- [ ] Building security dashboards
-- [ ] Simulating attacks with Kali Linux
+- [ ] Advanced SPL techniques (correlation, transactions)
+- [ ] Attack simulation with Kali Linux
 - [ ] Incident investigation workflows
 
 ## 📖 Documentation
